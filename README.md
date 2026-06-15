@@ -1,4 +1,4 @@
-# WinGetIP
+# Win-Get-IP
 
 A PowerShell utility that retrieves and displays all IP addresses configured on a Windows system.
 
