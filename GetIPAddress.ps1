@@ -14,5 +14,4 @@ if ($ip_address.Count -gt 1) {
         Write-Host -ForegroundColor red "No IP address found!"
 } else {
         $ip_address
-
 }
